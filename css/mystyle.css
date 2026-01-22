@@ -22,9 +22,18 @@ body {
     margin-top: 4%;
 }
 
+object {
+    width: 100%;
+    height: 800px;
+}
+
 .navigation{
     background-color:khaki;
     padding: 10px;
+}
+
+.nav_title {
+    font-size: 1.5em;
 }
 
 .side {
@@ -92,7 +101,7 @@ h2 {
     border-top-width: 2px;
 }
 
-.decor_title {
+.key_points {
     font-family: 'Lucida Handwriting', cursive;
     font-size: 1.2em;
     color:saddlebrown;
