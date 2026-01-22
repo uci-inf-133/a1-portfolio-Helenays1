@@ -52,6 +52,7 @@ I do not have all the links I clicked on while making my website, but here are s
 https://www.w3schools.com/css/css3_gradients.asp
 https://stackoverflow.com/questions/28704432/how-to-change-background-image-based-on-screen-size-possibly-with-bootstrap
 https://www.w3schools.com/TAGS/tag_br.asp
+https://icomets.org/wh/chap02.pdf (I tried to make my website like this textbook!)
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 None
