@@ -26,18 +26,31 @@ object {
     width: 100%;
     height: 800px;
 }
-
-.navigation{
-    background-color:khaki;
-    padding: 10px;
+li {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.nav_title {
+td {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+p.nav_title {
     font-size: 1.5em;
 }
 
-.side {
-    background-image: linear-gradient(to right, darkkhaki, khaki);
+
+p.fig {
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+p#intro_name {
+    font-size: 1.5em;
 }
 
 img {
@@ -54,10 +67,6 @@ h1 {
     padding: 10px;
 }
 
-#intro_name {
-    font-size: 1.5em;
-}
-
 h2 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 2.5em;
@@ -65,6 +74,20 @@ h2 {
     background-color: royalblue;
     text-shadow: 2px 2px 4px #000000;
     padding: 8px;
+}
+
+table {
+    width: 100%;
+    padding: 5px;
+}
+
+.navigation{
+    background-color:khaki;
+    padding: 10px;
+}
+
+.side {
+    background-image: linear-gradient(to right, darkkhaki, khaki);
 }
 
 .year {
@@ -90,11 +113,6 @@ h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.fig {
-    font-style: italic;
-    font-size: 0.9em;
-}
-
 .timeline {
     border-top-color: #000000;
     border-top-style: solid;
@@ -118,11 +136,6 @@ h2 {
     border-right-color: #000000;
     border-right-style: solid;
     border-right-width: 2px;
-}
-
-table {
-    width: 100%;
-    padding: 5px;
 }
 
 .table_heading {
